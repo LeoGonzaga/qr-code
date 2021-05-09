@@ -5,14 +5,14 @@
 </div>   
 <p align="center">	
    <a href="https://www.linkedin.com/in/leogonzaga/">
-      <img alt="Léo Gonzaga" src="https://img.shields.io/badge/-Leo Gonzaga-FB250?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Léo Gonzaga" src="https://img.shields.io/badge/-Leo Gonzaga-5c0db6?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/LeoGonzaga/qr-code?color=5c0db6">
 
   <a href="https://github.com/leoGonzaga/preguizap/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leoGonzaga/qr-code?color=5c0db6">
   </a> 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-FB250">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5c0db6">
 
 </p>
 
